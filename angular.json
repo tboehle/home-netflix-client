@@ -33,6 +33,9 @@
             "styles": [
               "src/styles/styles.scss"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": ["src/styles", "node_modules"]
+            },
             "scripts": []
           },
           "configurations": {
